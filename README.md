@@ -1,4 +1,4 @@
-# � Hi, I’m Ronald Estrada
+# 🖖 Hi, I’m Ronald Estrada
 
 **Senior Full-Stack Developer | Web & Mobile | AI, Fintech, Healthcare**  
 
@@ -8,7 +8,7 @@ I collaborate with **startups, SaaS companies, and enterprise teams** to deliver
 
 ---
 
-## � Core Expertise & Technologies
+## 🛠 Core Expertise & Technologies
 
 ### Frontend Development
 - **Languages & Tools:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass (SCSS)  
@@ -42,7 +42,7 @@ I collaborate with **startups, SaaS companies, and enterprise teams** to deliver
 
 ---
 
-## � What I Bring to the Table
+## 🌟 What I Bring to the Table
 - End-to-end full-stack development with scalable architecture  
 - Clean, maintainable, and modular code  
 - High-performance, responsive, and user-friendly applications  
