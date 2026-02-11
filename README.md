@@ -1,6 +1,6 @@
 ## Senior Full-Stack Developer | Web & Mobile | AI, Fintech, Healthcare
 
-<!--
+
 Hi, I’m **Ronald**, a Senior Full-Stack Developer with 10+ years of experience building scalable, user-centric applications across AI, Fintech, Healthcare, Social Networking, Security, Hospitality, and Education industries.
 
 I work with startups, SaaS companies, and enterprise teams to deliver full-stack solutions that are maintainable, performant, and intuitive for real users.
@@ -59,4 +59,4 @@ Clients looking for a senior full-stack developer with expertise in modern web a
 Let’s connect and discuss how I can help bring your product to life.
 
 Ronald Estrada
--->
+
