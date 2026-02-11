@@ -51,7 +51,7 @@ I collaborate with **startups, SaaS companies, and enterprise teams** to deliver
 
 ---
 
-## � Let’s Connect
+## 📨 Let’s Connect
 Clients looking for a **senior full-stack developer** with expertise in **modern web & mobile frameworks, AI integrations, and scalable cloud deployments** will find my skill set well-suited for **ambitious, high-impact projects**.  
 
 **Let’s discuss how I can help bring your product to life.**
